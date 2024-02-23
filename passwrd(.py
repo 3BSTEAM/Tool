@@ -14,6 +14,7 @@ from rich import print as rprint
 from rich import pretty
 from rich.text import Text as tekz
 import os
+na = webbrowser.open('''https://t.me/drexnna''')
 try:
         
         import rich
